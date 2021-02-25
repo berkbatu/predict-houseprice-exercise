@@ -1,2 +1,2 @@
 # predict-houseprice-exercise
-Prediction of House Prices using sci-kits Boston house prices dataset
+A brief analysis of Sci-kits Boston house prices dataset and a prediction tool based of it.
