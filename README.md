@@ -1,7 +1,7 @@
 ## Analysis and Prediction of House prices
 
 A brief analysis of Sci-kits Boston house prices dataset and after a while, I will also add a prediction tool written in Python.
-This was done for a course assignment. 
+This was done for a course assignment. In the analysis part, some variables have been tested for dropping. Dropping a couple of values seemed to have no significant decrease in our accuracy so we've dropped them. Also they'll be dropped also in the valuation tool.
 
 ### Getting Started
 
